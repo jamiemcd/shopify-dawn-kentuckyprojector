@@ -116,24 +116,24 @@
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/IMG_3205.jpg",
-            "title": "Play Games",
-            "text": "<p>A low input lag of 16ms means fast gaming. <\/p>"
+            "title": "A low input lag of 16ms means fast gaming.",
+            "text": ""
           }
         },
         "column2": {
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/IMG_3225.jpg",
-            "title": "Watch Sports",
-            "text": "<p>Big games deserve a big screen.<\/p>"
+            "title": "Big games deserve a big screen.",
+            "text": ""
           }
         },
         "column3": {
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/IMG_3241.jpg",
-            "title": "Movies",
-            "text": "<p>A 130\" screen is equal to four 65\" screens.<\/p>"
+            "title": "A 130\" screen is equal to four 65\" screens.",
+            "text": ""
           }
         }
       },
