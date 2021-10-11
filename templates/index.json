@@ -115,7 +115,7 @@
         "column1": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/IMG_3205.jpg",
+            "image": "shopify:\/\/shop_images\/mario-kart-800x600.jpg",
             "title": "A low input lag of 16ms means fast gaming.",
             "text": ""
           }
@@ -123,7 +123,7 @@
         "column2": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/IMG_3225.jpg",
+            "image": "shopify:\/\/shop_images\/world-series-2016-800x600.jpg",
             "title": "Big games deserve a big screen.",
             "text": ""
           }
@@ -131,7 +131,7 @@
         "column3": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/IMG_3241.jpg",
+            "image": "shopify:\/\/shop_images\/men-in-black-800x600.jpg",
             "title": "A 130\" screen is equal to four 65\" screens.",
             "text": ""
           }
