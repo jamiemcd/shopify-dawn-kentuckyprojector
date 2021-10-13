@@ -152,12 +152,22 @@
         "button_link": "",
         "swipe_on_mobile": false
       }
+    },
+    "16341585054a433aaa": {
+      "type": "video",
+      "settings": {
+        "heading": "Video",
+        "video_url": "https:\/\/youtu.be\/gH_qhNMGy88",
+        "description": "",
+        "full_width": false
+      }
     }
   },
   "order": [
     "image_banner",
     "rich_text",
     "16331984908f1460d7",
-    "multi_column"
+    "multi_column",
+    "16341585054a433aaa"
   ]
 }
