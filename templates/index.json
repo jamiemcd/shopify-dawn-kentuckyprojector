@@ -157,6 +157,7 @@
       "type": "video",
       "settings": {
         "heading": "Video",
+        "cover_image": "shopify:\/\/shop_images\/video-frame.jpg",
         "video_url": "https:\/\/youtu.be\/gH_qhNMGy88",
         "description": "",
         "full_width": false
