@@ -20,20 +20,29 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "Rent a projector for big‑screen gaming or movies at home.",
+            "heading": "Experience big‑screen gaming or movies at home. Rent a projector today.",
             "heading_size": "h1"
           }
         },
         "text": {
           "type": "text",
           "settings": {
-            "text": "<p>When you rent from Kentucky Projector Rental, we ship a projector to you. We ship to all 50 states. You keep the projector for 7 or 14 days and then ship it back to us using the included prepaid label.<\/p><p>A screen is not required. A large, light colored wall will do great. <\/p><p>We feature the <strong>BenQ TH671ST<\/strong> — a highly rated projector for both movies and gaming. The TH671ST is a short-throw projector that you can set on a table 6 feet from your wall for a huge 120\" screen. With a low 16ms input lag, the TH671ST is fantastic for gaming.<\/p><p>Rent a projector to have the big‑screen experience at your next birthday party, movie night, game night, or sporting event. <\/p>"
+            "text": "<p>When you rent from Kentucky Projector Rental, we ship a projector to you. We ship to all 50 states. You keep the projector for 7 or 14 days and then ship it back to us using the included prepaid label.<\/p><p>A screen is not required. A large, light colored wall will do great. <\/p><p>We feature the BenQ TH671ST — a highly rated projector for both movies and gaming. The TH671ST is a short-throw projector, which means  you can set it just 6 feet from your wall to produce a huge 120\" screen. With a low 16ms input lag, the TH671ST is fantastic for gaming.<\/p><p>Rent a projector and have the big‑screen experience at your next birthday party, movie night, game night, or sporting event. <\/p>"
+          }
+        },
+        "a12ef593-8681-4037-b284-b444472005af": {
+          "type": "button",
+          "settings": {
+            "button_label": "Rent a Projector",
+            "button_link": "shopify:\/\/products\/benq-th671st-projector-rental",
+            "button_style_secondary": false
           }
         }
       },
       "block_order": [
         "heading",
-        "text"
+        "text",
+        "a12ef593-8681-4037-b284-b444472005af"
       ],
       "settings": {
         "color_scheme": "background-1",
@@ -42,6 +51,7 @@
     },
     "16331984908f1460d7": {
       "type": "featured-product",
+      "disabled": true,
       "blocks": {
         "16331984908f1460d7-0": {
           "type": "text",
